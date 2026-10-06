@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=hohoanganh&label=PROFILE+VIEWS&color=blue&style=flat-square)
+![Profile views](https://hits.sh/github.com/hohoanganh.svg?style=flat-square&label=PROFILE%20VIEWS&color=007ec6)
 
 </div>
 
