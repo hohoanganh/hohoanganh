@@ -19,10 +19,10 @@ kiểm thử cho sản xuất. Ở đây tôi chia sẻ những thứ làm đư�
 
 ## Dự án nổi bật
 
-### [ak-base-kit-pio](https://github.com/hohoanganh/ak-base-kit-pio) — nền firmware cho STM32L151
+### [ak-mcu-base](https://github.com/hohoanganh/ak-mcu-base) — nền firmware cho STM32L151
 
-<a href="https://hohoanganh.github.io/ak-base-kit-pio/play/">
-  <img src="https://raw.githubusercontent.com/hohoanganh/ak-base-kit-pio/main/docs/demo-tour.gif" alt="Bộ demo trên AK Base Kit: đồng hồ, game, 3D, video, máy hiện sóng" width="404" align="right">
+<a href="https://hohoanganh.github.io/ak-mcu-base/play/">
+  <img src="https://raw.githubusercontent.com/hohoanganh/ak-mcu-base/main/docs/demo-tour.gif" alt="Bộ demo trên AK Base Kit: đồng hồ, game, 3D, video, máy hiện sóng" width="404" align="right">
 </a>
 
 Nền firmware bare-metal dựng lại từ [AK Base Kit](https://github.com/the-ak-foundation/ak-base-kit-stm32l151) của
@@ -30,10 +30,10 @@ AK Foundation: kernel hướng sự kiện không cần RTOS, bootloader, cập 
 
 | | |
 |---|---|
-| **Chạy thử ngay** | [Firmware chạy trong trình duyệt](https://hohoanganh.github.io/ak-base-kit-pio/play/), không cần kit |
-| **Xem demo** | [16 màn hình trên OLED 128×64](https://github.com/hohoanganh/ak-base-kit-pio/blob/main/docs/demo-kit.md): game, 3D, video, máy hiện sóng |
-| **Tải firmware** | [Releases](https://github.com/hohoanganh/ak-base-kit-pio/releases) |
-| **Bắt đầu dự án mới** | [Trang giới thiệu](https://hohoanganh.github.io/ak-base-kit-pio/) |
+| **Chạy thử ngay** | [Firmware chạy trong trình duyệt](https://hohoanganh.github.io/ak-mcu-base/play/), không cần kit |
+| **Xem demo** | [16 màn hình trên OLED 128×64](https://github.com/hohoanganh/ak-mcu-base/blob/main/docs/demo-kit.md): game, 3D, video, máy hiện sóng |
+| **Tải firmware** | [Releases](https://github.com/hohoanganh/ak-mcu-base/releases) |
+| **Bắt đầu dự án mới** | [Trang giới thiệu](https://hohoanganh.github.io/ak-mcu-base/) |
 
 <br clear="right">
 
@@ -61,5 +61,5 @@ nhúng tại Việt Nam. Nếu bạn mới học lập trình hướng sự ki�
 
 ## Liên hệ
 
-- Góp ý hoặc báo lỗi: mở [issue](https://github.com/hohoanganh/ak-base-kit-pio/issues) ở dự án tương ứng.
+- Góp ý hoặc báo lỗi: mở [issue](https://github.com/hohoanganh/ak-mcu-base/issues) ở dự án tương ứng.
 - TikTok: [@hohoanganh1](https://www.tiktok.com/@hohoanganh1)
