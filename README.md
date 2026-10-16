@@ -15,9 +15,9 @@ kiểm thử cho sản xuất. Trang này là những thứ tôi làm ngoài gi�
 
 | Mảng | Công việc |
 |---|---|
-| **Phần cứng** | Schematic, PCB, 3D, Renser design đưa sản phẩm từ ý tưởng tới sản xuất |
+| **Phần cứng** | Schematic, PCB, 3D, Render design đưa sản phẩm từ ý tưởng tới sản xuất |
 | **Firmware** | STM32, ESP32, nRF52; Modbus RTU, bootloader, OTA |
-| **Công cụ** | Tool test cho dev, và dây chuyển sản xuất |
+| **Công cụ** | Tool test cho phát triển sản phẩm, và dây chuyển sản xuất |
 
 ## Dự án nổi bật
 
