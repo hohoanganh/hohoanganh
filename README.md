@@ -9,18 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hohoanganh/hohoanganh/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-0366d6" alt="license MIT"></a>
-  <a href="https://github.com/hohoanganh?tab=followers"><img src="https://img.shields.io/github/followers/hohoanganh?logo=github&amp;label=theo%20d%C3%B5i" alt="người theo dõi"></a>
-  <a href="https://github.com/hohoanganh/ak-mcu-base/stargazers"><img src="https://img.shields.io/github/stars/hohoanganh/ak-mcu-base?logo=github&amp;label=ak-mcu-base" alt="sao ak-mcu-base"></a>
-  <a href="https://www.tiktok.com/@hohoanganh1"><img src="https://img.shields.io/badge/TikTok-%40hohoanganh1-000000?logo=tiktok" alt="TikTok"></a>
-  <br>
-  <img src="https://img.shields.io/badge/C-firmware-555555?logo=c" alt="C">
-  <img src="https://img.shields.io/badge/Rust-nh%C3%BAng-000000?logo=rust" alt="Rust">
-  <img src="https://img.shields.io/badge/STM32-L1%20%C2%B7%20G0-03234B?logo=stmicroelectronics" alt="STM32">
-  <img src="https://img.shields.io/badge/ESP32-Espressif-E7352C?logo=espressif&amp;logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/nRF52-Nordic-00A9CE?logo=nordicsemiconductor&amp;logoColor=white" alt="nRF52">
-  <img src="https://img.shields.io/badge/Modbus-RTU%20%C2%B7%20TCP-0366d6" alt="Modbus RTU / TCP">
-  <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/built%20with-Claude%20Code-d97757?logo=claude&amp;logoColor=white" alt="built with Claude Code"></a>
+  <img src="https://img.shields.io/badge/C-firmware-d9e1ea?style=flat-square&amp;labelColor=0b0f14&amp;logo=c&amp;logoColor=white" alt="C firmware">
+  <img src="https://img.shields.io/badge/Rust-embedded-d9e1ea?style=flat-square&amp;labelColor=0b0f14&amp;logo=rust&amp;logoColor=white" alt="Embedded Rust">
+  <img src="https://img.shields.io/badge/STM32-L1%20%C2%B7%20G0-d9e1ea?style=flat-square&amp;labelColor=0b0f14&amp;logo=stmicroelectronics&amp;logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/ESP32-Espressif-d9e1ea?style=flat-square&amp;labelColor=0b0f14&amp;logo=espressif&amp;logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/nRF52-Nordic-d9e1ea?style=flat-square&amp;labelColor=0b0f14&amp;logo=nordicsemiconductor&amp;logoColor=white" alt="nRF52">
+  <img src="https://img.shields.io/badge/Modbus-RTU%20%C2%B7%20TCP-d9e1ea?style=flat-square&amp;labelColor=0b0f14" alt="Modbus RTU / TCP">
+  <a href="https://www.tiktok.com/@hohoanganh1"><img src="https://img.shields.io/badge/TikTok-%40hohoanganh1-d9e1ea?style=flat-square&amp;labelColor=0b0f14&amp;logo=tiktok&amp;logoColor=white" alt="TikTok"></a>
+  <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/built%20with-Claude%20Code-d9e1ea?style=flat-square&amp;labelColor=0b0f14&amp;logo=claude&amp;logoColor=white" alt="built with Claude Code"></a>
 </p>
 
 ## Giới thiệu
