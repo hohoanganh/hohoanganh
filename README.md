@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/hohoanganh/hohoanganh/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-0366d6" alt="license MIT"></a>
   <a href="https://github.com/hohoanganh?tab=followers"><img src="https://img.shields.io/github/followers/hohoanganh?logo=github&amp;label=theo%20d%C3%B5i" alt="người theo dõi"></a>
   <a href="https://github.com/hohoanganh/ak-mcu-base/stargazers"><img src="https://img.shields.io/github/stars/hohoanganh/ak-mcu-base?logo=github&amp;label=ak-mcu-base" alt="sao ak-mcu-base"></a>
   <a href="https://www.tiktok.com/@hohoanganh1"><img src="https://img.shields.io/badge/TikTok-%40hohoanganh1-000000?logo=tiktok" alt="TikTok"></a>
